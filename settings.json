@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "https://Playfun-C1IM.aternos.me",
+    "port": 29314,
     "version": "1.19.3"
   },
 
